@@ -20,7 +20,7 @@ STEP-4: Arrange the characters of the keyword in sorted order and the correspond
 STEP-5: Read the characters row wise or column wise in the former order to get the cipher text.
 
 ## NAME: RAJA RITHIKA
-## REG NO: 230500029
+## REG NO: 2305001029
 
 ## PROGRAM
 ```
